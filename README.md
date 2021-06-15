@@ -12,7 +12,7 @@ For detail information about pygame installation, go to https://www.pygame.org/w
 
 ## Run the game
 ```
-python3 alien_invasion.py
+python3 zominion.py
 ```
 
 ## Source
