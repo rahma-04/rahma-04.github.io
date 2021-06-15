@@ -1,4 +1,4 @@
-# rahma-04.github.io# Zominion
+# Zominion
 a 2D game in which the aim is to shoot down a Zombie Minion they drop down the screen in levels that increase in speed and difficulty.
 
 ## Pygame Installation
