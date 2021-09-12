@@ -11,11 +11,10 @@ python3 -m pip install -U pygame --user
 For detail information about pygame installation, go to https://www.pygame.org/wiki/GettingStarted
 
 ## Run the game
-```
 1. Download the Zip
 2. Compress file
 3. Run zominion.py
-
+```
 python3 zominion.py
 ```
 
